@@ -62,3 +62,8 @@ nav a {
 	font-weight:500;
 }
 /********* Design Logo and Menu section CSS End **********/
+/********* Slider CSS Starts **********/
+.slider img {
+  width: 100%;
+}
+/********* Slider CSS End **********/
