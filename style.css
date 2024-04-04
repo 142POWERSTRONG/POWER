@@ -117,3 +117,23 @@ nav a {
   float: left;
 }
 /********** About Us CSS Ends **********/
+/********** School Info, Award and Certificate CSS Starts **********/  
+.award p {
+  width: 100%;
+  float: left;
+  font-size: 16px;
+}
+.award img {
+  width: 100%;
+}
+.award b {
+  min-width: 115px;
+  float: left;
+  margin-bottom: 20px;
+}
+.award h3 {
+  font-size: 23px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+/********** School Info, Award and Certificate CSS Ends **********/
